@@ -11,17 +11,18 @@ var data = {
 		text: 'Haha yeah',
 	},
 
-	4: {
-		text: 'Seal laugh',
-	},
 
-	5: {
+	4: {
 		text: 'MSN',
 	},
 
-	6: {
+	5: {
 		text: 'Banter',
 	},
+
+    6: {
+        text: 'Mission impossible'
+    },
 
 	7: {
 		text: 'Shit',
@@ -29,10 +30,6 @@ var data = {
 
 	8: {
 		text: 'Heckler takes over',
-	},
-
-	9: {
-		text: 'Extra',
 	}
 };
 
