@@ -1,35 +1,36 @@
 var data = {
 	1: {
-		text: 'Yeah',
+	    text: 'Yeah',
 	},
-
 	2: {
-		text: 'Barbra Streisand',
+	    text: 'Barbra Streisand',
 	},
-
 	3: {
-		text: 'Haha yeah',
+	    text: 'Haha yeah',
 	},
-
 
 	4: {
-		text: 'MSN',
+	    text: 'MSN',
 	},
 
 	5: {
-		text: 'Banter',
+	    text: 'Banter',
 	},
 
-    6: {
-        text: 'Mission impossible'
-    },
+	6: {
+	    text: 'Mission impossible'
+	},
 
 	7: {
-		text: 'Shit',
+	    text: 'Shit',
 	},
 
 	8: {
-		text: 'Heckler takes over',
+	    text: 'Heckler takes over',
+	},
+
+	9: {
+	    text: 'Goodbye'
 	}
 };
 
